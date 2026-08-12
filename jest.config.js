@@ -1,4 +1,5 @@
 /** @type {import('jest').Config} */
+// fix(#4): optimize gas usage
 module.exports = {
   preset: 'ts-jest',
   testEnvironment: 'node',
