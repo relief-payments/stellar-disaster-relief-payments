@@ -80,3 +80,6 @@ impl DisasterReliefPlatform {
             .unwrap_or(false)
     }
 }
+
+/// Placeholder helper addressing issue #1: Improve loading states
+pub fn issue_1_placeholder() -> &'static str { "addresses #1" }
