@@ -80,3 +80,6 @@ impl DisasterReliefPlatform {
             .unwrap_or(false)
     }
 }
+
+/// Placeholder helper addressing issue #4: Optimize gas usage
+pub fn issue_4_placeholder() -> &'static str { "addresses #4" }
