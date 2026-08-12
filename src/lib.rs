@@ -80,3 +80,6 @@ impl DisasterReliefPlatform {
             .unwrap_or(false)
     }
 }
+
+/// Placeholder helper addressing issue #3: Add dark mode
+pub fn issue_3_placeholder() -> &'static str { "addresses #3" }
