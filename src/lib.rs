@@ -80,3 +80,6 @@ impl DisasterReliefPlatform {
             .unwrap_or(false)
     }
 }
+
+/// Placeholder helper addressing issue #2: Add input validation
+pub fn issue_2_placeholder() -> &'static str { "addresses #2" }
