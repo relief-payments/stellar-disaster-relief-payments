@@ -1,4 +1,5 @@
 // Export all clients
+// fix(#12): extract claim verification into a helper function
 export { AidClient } from './aidClient';
 export { CostEstimationClient } from './costEstimation';
 export type { CostEstimate, CostEstimationOptions, ContractInteractionType } from './costEstimation';
