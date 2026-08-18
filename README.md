@@ -102,7 +102,7 @@ ADMIN_SECRET_KEY=SADMIN_KEY_HERE
 NGO_SECRET_KEY=SNGO_KEY_HERE
 GOV_SECRET_KEY=SGOV_KEY_HERE
 UN_SECRET_KEY=SUN_KEY_HERE
-```
+
 
 ## 🚀 Deployment Guide
 
@@ -211,7 +211,6 @@ cache.invalidatePrefix('beneficiary_'); // clears all beneficiary cache entries
 
 // Clear entire cache
 cache.clear();
-```
 
 #### Cache Features:
 - **Automatic TTL expiration**: Entries automatically expire after TTL (default 30s, configurable)
