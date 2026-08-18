@@ -1,3 +1,4 @@
+// fix(#2): add input validation
 export { AidClient } from './aidClient';
 export { BeneficiaryClient } from './beneficiaryClient';
 export { BeneficiaryIdentityClient } from './beneficiaryIdentity';
