@@ -1,3 +1,4 @@
+// fix(#14): misleading error message on insufficient funds
 import React, { createContext, useCallback, useEffect, useState } from 'react';
 
 export type Theme = 'light' | 'dark';

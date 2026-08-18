@@ -2,7 +2,6 @@
 
 Complete reference for all smart contract functions and TypeScript SDK methods.
 
----
 
 ## Smart Contracts
 
@@ -10,7 +9,6 @@ Complete reference for all smart contract functions and TypeScript SDK methods.
 
 Manages emergency fund pools with multi-signature authorization and oracle-triggered automatic releases.
 
----
 
 #### `create_fund`
 
